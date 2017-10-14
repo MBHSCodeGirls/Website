@@ -17,6 +17,24 @@ a:hover{
 	color:#F93B93;
 }
 
+.pfp{
+	margin:2em;
+}
+
+.personbox{
+	vertical-align: top;
+	display:inline-block;
+	margin: 1em;
+}
+
+.persontext h3, h5, p{
+	text-align: center;
+	width: inherit;
+}
+.persontext p{
+	width:17em;
+}
+
 /*Idk I feel like this is weird .-.*/
 /*#pink{
 	background-color: #ffccff;
