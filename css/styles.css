@@ -27,12 +27,24 @@ a:hover{
 	margin: 1em;
 }
 
-.persontext h3, h5, p{
+p{
+	text-align:left;
+}
+
+.persontext h3, .persontext h5, .persontext p{
 	text-align: center;
 	width: inherit;
 }
 .persontext p{
 	width:17em;
+}
+
+#demo{
+	margin-bottom: 2em;
+}
+
+#mainlogoclick{
+	width:13em; height:13em; margin-top:2.5em; margin-bottom: 3em: 
 }
 
 /*Idk I feel like this is weird .-.*/
